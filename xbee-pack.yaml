@@ -1,0 +1,10 @@
+schema-version: 1.0
+
+dependencies:
+  - cmake
+
+builders:
+  - jq
+  - python3
+  - mpc
+  - gnutls
