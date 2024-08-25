@@ -8,3 +8,4 @@ builders:
   - python3
   - mpc
   - gnutls
+  - re2c
