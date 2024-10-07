@@ -10,3 +10,4 @@ builder:
   - mpc
   - gnutls
   - re2c
+  - libzip
