@@ -1,11 +1,12 @@
 schema-version: 1.0
 
-dependencies:
+dependency:
   - cmake
-
-builders:
-  - jq
   - python3
+
+builder:
+  - p11-kit
+  - jq
   - mpc
   - gnutls
   - re2c
